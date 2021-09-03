@@ -12,7 +12,7 @@ I am putting some example text to view in difftool.
 
 ## How to Contribute
 
-This is a test, this is another test to see whats up
+Please fork this repo then issue pull requests for review
 
 
 ## Copyright
