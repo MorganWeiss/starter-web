@@ -3,6 +3,8 @@
 
 # TEAM
 
+	Morgan Weiss mweiss.sup.com
+
     <name> -- <role> -- <twitter>
 
 # THANKS
